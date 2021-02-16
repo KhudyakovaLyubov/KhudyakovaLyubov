@@ -23,7 +23,8 @@
 1) Anecdot_Bot: a training bot for Telegram with the theme of providing humorous content. Developed in the Python programming language, using additional libraries.
 2) Blog_for_programmers: a web application in the format of a blog, designed for the public of developers, the general format of the site as a social network. The site is made in the Python programming language, using the Django framework.
 3) UniverProjectForCource: this project is the final task for completing the Web development course on the Stepic website.
-4) WebHospital: a web application developed to order, with a theme for medical institutions, which performs the function of a polyclinic registry. The C# programming language, the template, was chosen for development ASP.NET MVC.
+4) WebHospital: a web application developed to order, with a theme for medical institutions, which performs the function of a polyclinic registry. The C# programming language, the template, was chosen for development ASP.NET MVC. 
+[The main development branch](https://github.com/KhudyakovaLyubov/WebHospital/tree/master)
 5) DesktopApp: the first project in the C# programming language. The design pattern is WinForms. It was made several years ago and was used in the thesis. 
 Project topic: Desktop-an application for encrypting / decrypting files.
 6) GeneratorApp: a console application for getting a list of random numbers, sorting them, and sending the result to the server. Programming language: C#.

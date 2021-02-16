@@ -26,9 +26,11 @@
 4) WebHospital: a web application developed to order, with a theme for medical institutions, which performs the function of a polyclinic registry. The C# programming language, the template, was chosen for development ASP.NET MVC.
 5) DesktopApp: the first project in the C# programming language. The design pattern is WinForms. It was made several years ago and was used in the thesis. 
 Project topic: Desktop-an application for encrypting / decrypting files.
+6) GeneratorApp: a console application for getting a list of random numbers, sorting them, and sending the result to the server. Programming language: C#.
 
 ### Follow me:
 
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://habr.com/ru/users/khudyakovalyubov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/LyubovKhudyakova)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/lyubov-khudyakova-a782341b6/)
+[![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)](https://gitlab.com/DeveloperKhudyakova)
